@@ -1,0 +1,16 @@
+﻿Exercise 1 
+Part 1. 
+I think the only obstacles Picobot could run into are the four blue walls. Unless Picobot can’t go back over the area they have already covered. 15 different surrounding possibilities. 
+The internal state is 0 
+Part 2. 
+If Picobot starts in the lower left hand corner. I would make Picobot move right 22 steps then move up one. Then to the left 22 spaces, then up one. I would repeat this until all spaces are cleared.
+
+
+
+
+
+
+Exercise  2
+
+
+1. Yes, since Picobot didn’t start in the lower left hand corner. They will only be blocked off by one side rather than two. I think I can reuse my plan from exercise one with only a few tweaks. I would only need to change how many steps the move to the left or right from their starting position.
